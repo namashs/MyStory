@@ -1,8 +1,1 @@
-open
-this was added to chapter 1
-
-
-thats its 
-:w
-:q
-:wq
+evething deleted now re initialised the chapter 1 file
