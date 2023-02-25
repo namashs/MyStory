@@ -1,1 +1,8 @@
-This is chapter one , first things first
+open
+this was added to chapter 1
+
+
+thats its 
+:w
+:q
+:wq
